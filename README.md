@@ -1,2 +1,2 @@
 Using Laravel 10 Framework
-PHP Version 8.0
+and PHP 8.0 Version
